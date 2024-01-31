@@ -27,4 +27,5 @@ Se você deseja contribuir para este projeto, sinta-se à vontade!
 
 ## Como Executar
 
-Para executar o programa, basta copiar o código que está em main.c, colar em uma IDE ou compilador.
+Para executar o programa, basta copiar o código que está em main.c, colar em uma IDE ou compilador. 
+Também pode ser aberto o arquivo .cbp no CodeBlocks, IDE que o software foi feito.
